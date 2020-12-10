@@ -11,17 +11,3 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
-
-.movieDetails {
-  max-width: 50%;
-  text-align: center;
-  padding: 15px;
-  border: 1px solid darkgray;
-  margin: auto;
-  background-color: lightgray;
-}
-
-.movieDetails img {
-  max-height: 400px;
-  border: 2px solid black;
-}
